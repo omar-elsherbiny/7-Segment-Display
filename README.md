@@ -6,3 +6,5 @@ GUI was made in pygame
 
 `left click` to increase by 1 <br>
 `right click` to decrease by 1
+
+truth_table script just generates the truth table for any given boolean expression, might be a helpful tool later
